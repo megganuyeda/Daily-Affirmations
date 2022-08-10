@@ -1,7 +1,7 @@
 # DAILY AFFIRMATIONS
 
 ## INTRODUCTION
-This folder contains the code necessary to open a “Daily Affirmations” webpage on your localhost created specifically for Jonathan Villarin when he is feeling sad or unmotivated. On the webpage, you will see a button that-- when pressed-- will generate a random, positive affirmation. The button can be clicked again to generate a new affirmation. The affirmations are programmed so that there will be no repeated elements until all 60+ affirmations have been shown. Then, the affirmations will be randomized again in various order.
+This folder contains the code necessary to open a “Daily Affirmations” webpage on your localhost created specifically for Jonathan Villarin when he is feeling sad or unmotivated. On the webpage, you will see a button that-- when pressed-- will generate a random, positive affirmation. The button can be clicked again to generate a new affirmation. The affirmations are programmed so that there will be no repeated elements until all 64 affirmations have been shown. Then, the affirmations will be randomized again in various order.
 
 ## INSTALLATION
 
