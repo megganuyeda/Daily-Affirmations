@@ -1,0 +1,37 @@
+
+body {
+    background-color: #f8fbff;
+}
+
+#container {
+    background-color: #a1c5e7
+    ;
+    background-image: url("note.png");
+    background-repeat: no-repeat;
+    background-size: 750px 550px;
+    height: 550px;
+    width: 750px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#btn {
+    margin-top: 150px;
+    margin-bottom: 50px;
+    height: 50x;
+    width: 200px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #a7c2e0;
+    color: black;
+    border-radius: 8px;
+    border: 1px solid;
+}
+
+#output {
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
